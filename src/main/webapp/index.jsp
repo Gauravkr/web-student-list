@@ -1,5 +1,8 @@
 <html>
+    <head>
+        <title>%Title</title>
+    </head>
 <body>
-<h2>Hello World!</h2>
+<b><% out.println("Hello World!"); %></b>
 </body>
 </html>
