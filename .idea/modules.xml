@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://C://ikel/ikel.iml" filepath="C://ikel/ikel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ikel.iml" filepath="$PROJECT_DIR$/ikel.iml" />
     </modules>
   </component>
 </project>

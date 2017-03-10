@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ikel:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="ikel-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="ikel:war exploded" />
+    </root>
+  </artifact>
+</component>
